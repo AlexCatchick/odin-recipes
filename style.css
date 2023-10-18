@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(12, 153, 163, 0.918);
+    font-family: 'Times New Roman', Times, serif;
+}
+.odin_recipes{
+    width: 500px;
+    background:#e25353 ;
+    color:blanchedalmond;
+    margin-bottom: 8px;
+    text-align: center;
+    border:2px solid papayawhip;
+}
+.list{
+    height:100px;
+    width:250px;
+    margin: 8px 0px;
+    padding: 0px;
+    text-align: left;
+    background-color: #2bc2d6;
+    border: 1px solid rgb(87, 39, 39);
+}
+.things{
+    align-items: center;
+}
